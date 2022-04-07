@@ -1,0 +1,15 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "A url shortner",
+  "main": "app.js",
+  "scripts": {
+    "go": "node app.js",
+    "test": "echo \"Not working yet\""
+  },
+  "author": "Cephas",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
